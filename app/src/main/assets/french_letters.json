@@ -1,0 +1,210 @@
+[
+  {
+    "id": "fr_a",
+    "character": "A",
+    "name": "A",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_a.mp3",
+    "order": 1
+  },
+  {
+    "id": "fr_b",
+    "character": "B",
+    "name": "B",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_b.mp3",
+    "order": 2
+  },
+  {
+    "id": "fr_c",
+    "character": "C",
+    "name": "C",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_c.mp3",
+    "order": 3
+  },
+  {
+    "id": "fr_d",
+    "character": "D",
+    "name": "D",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_d.mp3",
+    "order": 4
+  },
+  {
+    "id": "fr_e",
+    "character": "E",
+    "name": "E",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_e.mp3",
+    "order": 5
+  },
+  {
+    "id": "fr_f",
+    "character": "F",
+    "name": "F",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_f.mp3",
+    "order": 6
+  },
+  {
+    "id": "fr_g",
+    "character": "G",
+    "name": "G",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_g.mp3",
+    "order": 7
+  },
+  {
+    "id": "fr_h",
+    "character": "H",
+    "name": "H",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_h.mp3",
+    "order": 8
+  },
+  {
+    "id": "fr_i",
+    "character": "I",
+    "name": "I",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_i.mp3",
+    "order": 9
+  },
+  {
+    "id": "fr_j",
+    "character": "J",
+    "name": "J",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_j.mp3",
+    "order": 10
+  },
+  {
+    "id": "fr_k",
+    "character": "K",
+    "name": "K",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_k.mp3",
+    "order": 11
+  },
+  {
+    "id": "fr_l",
+    "character": "L",
+    "name": "L",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_l.mp3",
+    "order": 12
+  },
+  {
+    "id": "fr_m",
+    "character": "M",
+    "name": "M",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_m.mp3",
+    "order": 13
+  },
+  {
+    "id": "fr_n",
+    "character": "N",
+    "name": "N",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_n.mp3",
+    "order": 14
+  },
+  {
+    "id": "fr_o",
+    "character": "O",
+    "name": "O",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_o.mp3",
+    "order": 15
+  },
+  {
+    "id": "fr_p",
+    "character": "P",
+    "name": "P",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_p.mp3",
+    "order": 16
+  },
+  {
+    "id": "fr_q",
+    "character": "Q",
+    "name": "Q",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_q.mp3",
+    "order": 17
+  },
+  {
+    "id": "fr_r",
+    "character": "R",
+    "name": "R",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_r.mp3",
+    "order": 18
+  },
+  {
+    "id": "fr_s",
+    "character": "S",
+    "name": "S",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_s.mp3",
+    "order": 19
+  },
+  {
+    "id": "fr_t",
+    "character": "T",
+    "name": "T",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_t.mp3",
+    "order": 20
+  },
+  {
+    "id": "fr_u",
+    "character": "U",
+    "name": "U",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_u.mp3",
+    "order": 21
+  },
+  {
+    "id": "fr_v",
+    "character": "V",
+    "name": "V",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_v.mp3",
+    "order": 22
+  },
+  {
+    "id": "fr_w",
+    "character": "W",
+    "name": "W",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_w.mp3",
+    "order": 23
+  },
+  {
+    "id": "fr_x",
+    "character": "X",
+    "name": "X",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_x.mp3",
+    "order": 24
+  },
+  {
+    "id": "fr_y",
+    "character": "Y",
+    "name": "Y",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_y.mp3",
+    "order": 25
+  },
+  {
+    "id": "fr_z",
+    "character": "Z",
+    "name": "Z",
+    "alphabetType": "FRENCH",
+    "soundFileName": "fr_z.mp3",
+    "order": 26
+  }
+]

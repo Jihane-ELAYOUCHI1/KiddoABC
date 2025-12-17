@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GhostTextManager">
+    <option name="inputs">
+      <map>
+        <entry key="Afficher un canevas sur lequel une lettre est dessinée en fond (exemple : la lettre J).&#10;&#10;Permettre à l’enfant de tracer la lettre avec son doigt sur le canevas.&#10;&#10;La lettre de fond doit servir de guide, et l’enfant doit suivre le contour.&#10;&#10;Enregistrer les tracés de l’enfant pour pouvoir les analyser ou afficher un score de précision.&#10;&#10;Inclure plusieurs lettres (A-Z) et un bouton pour passer à la lettre suivante.&#10;&#10;Le code doit être fonctionnel, bien structuré, et utiliser Canvas et Paint pour dessiner.&#10;&#10;Fournir le layout XML correspondant et l’activité Kotlin complète.&quot;">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1764157474697" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="corriger">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1764156310689" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="corriger le fichier">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1764155756939" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="corriger tout les fichiers">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1764157827798" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="corriger tout les fichiers ayant des erreurs">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1764155819987" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

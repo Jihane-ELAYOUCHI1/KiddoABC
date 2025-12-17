@@ -1,0 +1,226 @@
+[
+  {
+    "id": "ar_alif",
+    "character": "ا",
+    "name": "Alif",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_alif.mp3",
+    "order": 1
+  },
+  {
+    "id": "ar_ba",
+    "character": "ب",
+    "name": "Ba",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_ba.mp3",
+    "order": 2
+  },
+  {
+    "id": "ar_ta",
+    "character": "ت",
+    "name": "Ta",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_ta.mp3",
+    "order": 3
+  },
+  {
+    "id": "ar_tha",
+    "character": "ث",
+    "name": "Tha",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_tha.mp3",
+    "order": 4
+  },
+  {
+    "id": "ar_jim",
+    "character": "ج",
+    "name": "Jim",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_jim.mp3",
+    "order": 5
+  },
+  {
+    "id": "ar_ha",
+    "character": "ح",
+    "name": "Ha",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_ha.mp3",
+    "order": 6
+  },
+  {
+    "id": "ar_kha",
+    "character": "خ",
+    "name": "Kha",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_kha.mp3",
+    "order": 7
+  },
+  {
+    "id": "ar_dal",
+    "character": "د",
+    "name": "Dal",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_dal.mp3",
+    "order": 8
+  },
+  {
+    "id": "ar_dhal",
+    "character": "ذ",
+    "name": "Dhal",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_dhal.mp3",
+    "order": 9
+  },
+  {
+    "id": "ar_ra",
+    "character": "ر",
+    "name": "Ra",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_ra.mp3",
+    "order": 10
+  },
+  {
+    "id": "ar_za",
+    "character": "ز",
+    "name": "Za",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_za.mp3",
+    "order": 11
+  },
+  {
+    "id": "ar_sin",
+    "character": "س",
+    "name": "Sin",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_sin.mp3",
+    "order": 12
+  },
+  {
+    "id": "ar_shin",
+    "character": "ش",
+    "name": "Shin",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_shin.mp3",
+    "order": 13
+  },
+  {
+    "id": "ar_sad",
+    "character": "ص",
+    "name": "Sad",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_sad.mp3",
+    "order": 14
+  },
+  {
+    "id": "ar_dad",
+    "character": "ض",
+    "name": "Dad",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_dad.mp3",
+    "order": 15
+  },
+  {
+    "id": "ar_ta_emphatic",
+    "character": "ط",
+    "name": "Ta (emphatic)",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_ta_emphatic.mp3",
+    "order": 16
+  },
+  {
+    "id": "ar_za_emphatic",
+    "character": "ظ",
+    "name": "Za (emphatic)",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_za_emphatic.mp3",
+    "order": 17
+  },
+  {
+    "id": "ar_ain",
+    "character": "ع",
+    "name": "Ain",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_ain.mp3",
+    "order": 18
+  },
+  {
+    "id": "ar_ghain",
+    "character": "غ",
+    "name": "Ghain",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_ghain.mp3",
+    "order": 19
+  },
+  {
+    "id": "ar_fa",
+    "character": "ف",
+    "name": "Fa",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_fa.mp3",
+    "order": 20
+  },
+  {
+    "id": "ar_qaf",
+    "character": "ق",
+    "name": "Qaf",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_qaf.mp3",
+    "order": 21
+  },
+  {
+    "id": "ar_kaf",
+    "character": "ك",
+    "name": "Kaf",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_kaf.mp3",
+    "order": 22
+  },
+  {
+    "id": "ar_lam",
+    "character": "ل",
+    "name": "Lam",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_lam.mp3",
+    "order": 23
+  },
+  {
+    "id": "ar_mim",
+    "character": "م",
+    "name": "Mim",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_mim.mp3",
+    "order": 24
+  },
+  {
+    "id": "ar_nun",
+    "character": "ن",
+    "name": "Nun",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_nun.mp3",
+    "order": 25
+  },
+  {
+    "id": "ar_ha_final",
+    "character": "ه",
+    "name": "Ha",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_ha_final.mp3",
+    "order": 26
+  },
+  {
+    "id": "ar_waw",
+    "character": "و",
+    "name": "Waw",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_waw.mp3",
+    "order": 27
+  },
+  {
+    "id": "ar_ya",
+    "character": "ي",
+    "name": "Ya",
+    "alphabetType": "ARABIC",
+    "soundFileName": "ar_ya.mp3",
+    "order": 28
+  }
+]

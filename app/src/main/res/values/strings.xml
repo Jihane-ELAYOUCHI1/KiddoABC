@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KiddoABC</string>
+
+    <!-- Home Screen -->
+    <string name="welcome_message">Bienvenue !</string>
+    <string name="choose_alphabet">Choisis ton alphabet</string>
+    <string name="arabic_alphabet">Alphabet Arabe</string>
+    <string name="french_alphabet">Alphabet Français</string>
+    <string name="arabic_description">Apprends les 28 lettres arabes</string>
+    <string name="french_description">Apprends les 26 lettres françaises</string>
+
+    <!-- Letters Screen -->
+    <string name="tap_to_hear">Appuie pour écouter</string>
+    <string name="long_press_to_draw">Appuie longtemps pour tracer</string>
+
+    <!-- Drawing Screen -->
+    <string name="draw_the_letter">Trace la lettre</string>
+    <string name="clear">Effacer</string>
+    <string name="toggle_guide">Guide</string>
+    <string name="repeat_sound">Répéter</string>
+    <string name="next">Suivant</string>
+    <string name="previous">Précédent</string>
+    <string name="finish">Terminer</string>
+    <string name="statistics">Statistiques</string>
+    <string name="show_guide">Afficher le guide</string>
+    <string name="hide_guide">Masquer le guide</string>
+
+    <!-- Feedback Messages -->
+    <string name="excellent">Excellent ! 🌟</string>
+    <string name="very_good">Très bien ! 👍</string>
+    <string name="good">Bien ! 😊</string>
+    <string name="not_bad">Pas mal ! 🙂</string>
+    <string name="keep_trying">Continue à t\'entraîner ! 💪</string>
+
+    <!-- Dialog Messages -->
+    <string name="confirm_exit">Quitter ?</string>
+    <string name="confirm_exit_message">Es-tu sûr de vouloir quitter ? Ta progression sera sauvegardée.</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
+    <string name="restart">Recommencer</string>
+
+    <!-- Statistics -->
+    <string name="your_results">Tes résultats</string>
+    <string name="average">Moyenne</string>
+    <string name="letters_traced">Lettres tracées</string>
+    <string name="no_letters_traced">Aucune lettre tracée pour le moment</string>
+    <string name="congratulations">Félicitations ! 🎉</string>
+
+    <!-- Progress -->
+    <string name="accuracy">Précision</string>
+    <string name="score">Score</string>
+    <string name="attempts">Tentatives</string>
+    <string name="completed">Complété</string>
+
+    <!-- Errors -->
+    <string name="error_loading">Erreur de chargement</string>
+    <string name="no_letters_found">Aucune lettre trouvée</string>
+    <string name="error_generic">Une erreur s\'est produite</string>
+
+    <string name="view_statistics">Voir les statistiques</string>
+    <string name="welcome_title">Bienvenue dans KiddoABC</string>
+    <string name="choose_language">Choisis ta langue</string>
+
+</resources>
