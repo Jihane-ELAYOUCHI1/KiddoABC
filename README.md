@@ -34,12 +34,3 @@ Elle permet d’apprendre et d’écrire les alphabets **arabe** et **français*
 * Architecture propre et structure Android moderne
 * Compatible téléphones et tablettes
 
----
-
----
-
-Si tu veux, je peux maintenant :
-
-* faire une **version encore plus courte (½ page)**
-* l’adapter exactement pour un **rapport universitaire**
-* ou générer un **README en anglais académique**
